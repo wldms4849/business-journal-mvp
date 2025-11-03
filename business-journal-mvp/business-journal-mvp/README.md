@@ -13,6 +13,10 @@
 3. **월관리 실행** - 블로그/인스타 콘텐츠 생성·예약·발행
 4. **투명 대시보드** - 진척 게이지, 로그, 리포트, 키워드 추천
 
+## 📘 Product Spec
+
+- [사업일기 Product Spec](docs/PRODUCT_SPEC.md)
+
 ## 🏗️ 기술 스택
 
 ### Backend
